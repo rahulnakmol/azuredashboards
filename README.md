@@ -4,8 +4,8 @@ Here are some examples of Azure Dashboards that I've created. I've downloaded th
 
 `d-ks-euw-aks-01 monitoring.json`
 
-![d-ks euw-aks 01]("d-ks-euw-aks-01 monitoring.png")
+![d-ks euw-aks 01](d-ks-euw-aks-01-monitoring.png)
 
 `AKS Secure Baseline Cluster.json`
 
-![AKS Secure Baseline Cluster]("AKS Secure Baseline Cluster.png")
+![AKS Secure Baseline Cluster](aks-secure-baseline-cluster.png)
