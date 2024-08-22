@@ -1,6 +1,6 @@
 # Azure Dashboards
 
-Here are some examples of Azure Dashboards that I've created. I've downloaded them as JSON files, so you should in theory be able to reuse these, once you've replaced the names of the resources!
+Here are some examples of Azure Dashboards to showcase the dynamic resource status reporting. These JSON files, which are resuable by dynamically bininding business names
 
 `d-ks-euw-aks-01 monitoring.json`
 
